@@ -1,6 +1,6 @@
 # e-commerce web for startup entrepreneurs
 
-* Download and extract file
+* Download and extract file, place it inside htdocs folder under the main XAMPP folder in your PC
 * Open XAMPP, start Apache and Mysql
 * Import Database to phpmyadmin
 * Run the project through localhost in browser
