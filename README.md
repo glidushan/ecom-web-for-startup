@@ -2,6 +2,7 @@
 
 * Download and extract file
 * Open XAMPP, start Apache and Mysql
+* Import Database to phpmyadmin
 * Run the project through localhost in browser
 * Create Owner/Supplier Account to add products as product manufacturer
 * Create Customer Account to purchase Products
